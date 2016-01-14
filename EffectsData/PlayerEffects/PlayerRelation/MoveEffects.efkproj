@@ -18,6 +18,11 @@
                 <Max>-10</Max>
                 <Min>-10</Min>
               </X>
+              <Y>
+                <Center>-10</Center>
+                <Max>-10</Max>
+                <Min>-10</Min>
+              </Y>
             </Location>
             <Velocity>
               <X>
@@ -79,12 +84,17 @@
           <Type>1</Type>
           <Sphere>
             <Radius>
+              <Center>15</Center>
               <Max>30</Max>
             </Radius>
             <RotationX>
               <Max>30</Max>
               <Min>-30</Min>
             </RotationX>
+            <RotationY>
+              <Max>5</Max>
+              <Min>-5</Min>
+            </RotationY>
           </Sphere>
           <Circle>
             <Radius>
