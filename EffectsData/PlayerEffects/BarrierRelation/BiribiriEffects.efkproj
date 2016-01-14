@@ -14,10 +14,12 @@
             <Min>20</Min>
           </Life>
           <GenerationTime>
+            <Center>5.500005</Center>
             <Max>11</Max>
             <Min>1E-05</Min>
           </GenerationTime>
           <GenerationTimeOffset>
+            <Center>15</Center>
             <Max>30</Max>
           </GenerationTimeOffset>
         </CommonValues>
@@ -67,6 +69,7 @@
           <Type>1</Type>
           <Sphere>
             <Radius>
+              <Center>1</Center>
               <Max>2</Max>
             </Radius>
             <RotationX>
@@ -113,6 +116,7 @@
             <Min>20</Min>
           </Life>
           <GenerationTime>
+            <Center>20.50001</Center>
             <Max>41</Max>
             <Min>1E-05</Min>
           </GenerationTime>
@@ -216,7 +220,7 @@
           </Fixed>
         </ScalingValues>
         <RendererCommonValues>
-          <ColorTexture>gra_effect_thunderB.png</ColorTexture>
+          <ColorTexture>ThunderEffects.png</ColorTexture>
           <AlphaBlend>2</AlphaBlend>
           <UV>2</UV>
           <UVAnimation>
