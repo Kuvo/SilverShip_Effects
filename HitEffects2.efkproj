@@ -63,6 +63,7 @@
         </ScalingValues>
         <RendererCommonValues>
           <ColorTexture>Shock_wave001.png</ColorTexture>
+          <AlphaBlend>2</AlphaBlend>
           <Filter>0</Filter>
           <Wrap>1</Wrap>
           <FadeOutType>1</FadeOutType>
@@ -73,7 +74,6 @@
         </RendererCommonValues>
         <DrawingValues>
           <Sprite>
-            <Billboard>2</Billboard>
             <ColorAll>2</ColorAll>
           </Sprite>
         </DrawingValues>
@@ -155,7 +155,6 @@
         </RendererCommonValues>
         <DrawingValues>
           <Sprite>
-            <Billboard>2</Billboard>
             <ColorAll>2</ColorAll>
           </Sprite>
         </DrawingValues>
